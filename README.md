@@ -2,6 +2,9 @@
 
 A personal portfolio landing page built with pure HTML and CSS.
 
+## Live Link
+https://tcintern-009.github.io/Personal-portfolio-landing-page/
+
 ## Structure
 
 ```
